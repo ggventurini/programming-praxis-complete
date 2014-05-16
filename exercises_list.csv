@@ -1,7 +1,7 @@
 "date","title","link","Status","File","Notes"
 "20140509","Cluster","http://programmingpraxis.com/2014/05/09/cluster/",,,
 "20140506","Packed Ascii","http://programmingpraxis.com/2014/05/06/packed-ascii/",,,
-"20140502","Binary Reflected Gray Code","http://programmingpraxis.com/2014/05/02/binary-reflected-gray-code/",,,
+"20140502","Binary Reflected Gray Code","http://programmingpraxis.com/2014/05/02/binary-reflected-gray-code/","S","solutions/20140502_Binary_Reflected_Gray_Code.ipynb","Binary"
 "20090227","Mark V. Shaney","http://programmingpraxis.com/2009/02/27/mark-v-shaney/",,,
 "20090224","Mardi Gras","http://programmingpraxis.com/2009/02/24/mardi-gras/",,,
 "20090220","A Self-Reproducing Program","http://programmingpraxis.com/2009/02/20/a-self-reproducing-program/",,,
@@ -11,7 +11,7 @@
 "20090219","Flavius Josephus","http://programmingpraxis.com/2009/02/19/flavius-josephus/",,,
 "20090219","Sudoku","http://programmingpraxis.com/2009/02/19/sudoku/",,,
 "20090219","Bingo","http://programmingpraxis.com/2009/02/19/bingo/",,,
-"20090219","Sieve of Eratosthenes","http://programmingpraxis.com/2009/02/19/sieve-of-eratosthenes/",,,
+"20090219","Sieve of Eratosthenes","http://programmingpraxis.com/2009/02/19/sieve-of-eratosthenes/","S","solutions/20090219_Sieve_of_Eratosthenes.ipynb","Primes"
 "20090428","Morse Code","http://programmingpraxis.com/2009/04/28/morse-code/",,,
 "20090424","Word Hy-phen-a-tion By Com-pu-ter","http://programmingpraxis.com/2009/04/24/word-hy-phen-a-tion-by-com-pu-ter/",,,
 "20090421","Probabilistic Spell Checking","http://programmingpraxis.com/2009/04/21/probabilistic-spell-checking/",,,
